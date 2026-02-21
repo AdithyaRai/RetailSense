@@ -18,3 +18,6 @@ This project predicts sales for Walmart stores based on historical data, holiday
 1. Clone the repo: `git clone https://github.com/AdithyaRai/RetailSense.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook in the `notebooks/` folder.
+
+## Actual vs Predict
+link: https://github.com/AdithyaRai/RetailSense/blob/main/actual_vs_predict.png
